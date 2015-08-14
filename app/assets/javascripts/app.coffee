@@ -1,0 +1,1 @@
+angie = angular.module('angie', [])
