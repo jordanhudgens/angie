@@ -24,7 +24,7 @@ recipes = [
   },
   {
     id: 3
-    name: 'Your mom'
+    name: 'Baked lasagna'
   },
   {
     id: 4
