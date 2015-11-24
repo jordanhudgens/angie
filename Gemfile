@@ -41,6 +41,8 @@ group :development, :test do
 end
 
 gem 'bower-rails'
+gem 'angular-rails-templates'
+gem 'sprockets', '2.12.3'
 
 # For heroku
 gem "foreman"
